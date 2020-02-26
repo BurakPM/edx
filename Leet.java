@@ -16,8 +16,8 @@ public class Leet {
 				if (token.charAt(token.length() - 1) == 's') {
 					token = token.substring(0, token.length() - 1) + 'Z';
 				}
-				leetToken = token.replace("o", "0").replace("l", "1").replace("e", "3").replace("a", "4").replace("t",
-						"7");
+				leetToken = token.replace("o", "0").replace("l", "1").replace("e", "3")
+						 .replace("a", "4").replace("t","7");
 				str = "(" + leetToken + ")";
 				out.append(str + " ");
 
