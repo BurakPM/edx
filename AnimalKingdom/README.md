@@ -1,5 +1,5 @@
 # AnimalKingdom
-Final Project for Microsoft: DEV277x Object Oriented Programming in Java in EDX. MARCH 2018
+Final Project for Microsoft: DEV277x Object Oriented Programming in Java in EDX.
 
 Every object in this world is a "critter", where Critter is the super class with default behavior defined. 
 You will be writing five classes, each representing a different type of Animal: Bear, Tiger, WhiteTiger, Giant and NinjaCat. 
