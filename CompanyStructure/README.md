@@ -1,5 +1,5 @@
 # CompanyStructure
-Module 3 Project for Microsoft: DEV277x Object Oriented Programming in Java in EDX. MARCH 2018
+Module 3 Project for Microsoft: DEV277x Object Oriented Programming in Java in EDX.
 
 For this project you are going to practice using inheritance, interfaces and abstract classes to relate objects to one another. 
 The following is a description of each class and its behavior. 
